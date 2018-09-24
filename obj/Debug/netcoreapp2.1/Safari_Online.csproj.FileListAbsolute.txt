@@ -1,0 +1,14 @@
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/bin/Debug/netcoreapp2.1/Safari_Online.deps.json
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/bin/Debug/netcoreapp2.1/Safari_Online.runtimeconfig.json
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/bin/Debug/netcoreapp2.1/Safari_Online.runtimeconfig.dev.json
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/bin/Debug/netcoreapp2.1/Safari_Online.dll
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/bin/Debug/netcoreapp2.1/Safari_Online.pdb
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/obj/Debug/netcoreapp2.1/Safari_Online.csprojAssemblyReference.cache
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/obj/Debug/netcoreapp2.1/Safari_Online.csproj.CoreCompileInputs.cache
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/obj/Debug/netcoreapp2.1/Safari_Online.RazorAssemblyInfo.cache
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/obj/Debug/netcoreapp2.1/Safari_Online.RazorAssemblyInfo.cs
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/obj/Debug/netcoreapp2.1/Safari_Online.AssemblyInfoInputs.cache
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/obj/Debug/netcoreapp2.1/Safari_Online.AssemblyInfo.cs
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/obj/Debug/netcoreapp2.1/Safari_Online.RazorTargetAssemblyInfo.cache
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/obj/Debug/netcoreapp2.1/Safari_Online.dll
+/Users/michaelsolone/sdg/dot_net/week-9/Safari_Online/obj/Debug/netcoreapp2.1/Safari_Online.pdb
